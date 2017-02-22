@@ -1,0 +1,10 @@
+{
+    "name": "korodo/gabiasms",
+    "type": "library",
+    "require": {
+         "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {"GabiaSms\\": "src/GabiaSms"}
+    }
+}
